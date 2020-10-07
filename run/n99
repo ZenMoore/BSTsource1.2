@@ -1,0 +1,410 @@
+# UCLA clock benchmark 1.0# Created       : Mon May 27 23:32:02 2002
+
+# User          : tsao@cs.ucla.edu
+# PlatForm      : SunOS 5.7 sparc SUNW,Ultra-1
+# Source        : Randomly generated testcases 
+# Note          : Coordinate unit can be micro-meter or anything
+  
+
+NumPins : 99  
+
+PerUnitResistance : 0.016600  Ohm 
+
+PerUnitCapacitance : .27000e-17  Farad 
+
+Sink : 0  
+     Coordinate : 231  233 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 1  
+     Coordinate : 732  106 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 2  
+     Coordinate : 411  874 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 3  
+     Coordinate : 448  344 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 4  
+     Coordinate : 191  789 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 5  
+     Coordinate : 695  735 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 6  
+     Coordinate : 979  92 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 7  
+     Coordinate : 850  390 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 8  
+     Coordinate : 195  668 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 9  
+     Coordinate : 281  902 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 10  
+     Coordinate : 571  680 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 11  
+     Coordinate : 261  187 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 12  
+     Coordinate : 529  190 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 13  
+     Coordinate : 446  233 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 14  
+     Coordinate : 708  863 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 15  
+     Coordinate : 681  1 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 16  
+     Coordinate : 499  786 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 17  
+     Coordinate : 214  829 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 18  
+     Coordinate : 322  907 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 19  
+     Coordinate : 129  875 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 20  
+     Coordinate : 829  591 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 21  
+     Coordinate : 719  342 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 22  
+     Coordinate : 994  392 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 23  
+     Coordinate : 509  313 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 24  
+     Coordinate : 677  282 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 25  
+     Coordinate : 511  795 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 26  
+     Coordinate : 474  469 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 27  
+     Coordinate : 750  879 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 28  
+     Coordinate : 989  134 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 29  
+     Coordinate : 880  629 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 30  
+     Coordinate : 235  332 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 31  
+     Coordinate : 145  356 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 32  
+     Coordinate : 988  807 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 33  
+     Coordinate : 979  357 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 34  
+     Coordinate : 914  187 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 35  
+     Coordinate : 540  22 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 36  
+     Coordinate : 149  609 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 37  
+     Coordinate : 9  833 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 38  
+     Coordinate : 999  863 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 39  
+     Coordinate : 369  676 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 40  
+     Coordinate : 77  701 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 41  
+     Coordinate : 691  840 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 42  
+     Coordinate : 703  515 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 43  
+     Coordinate : 324  343 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 44  
+     Coordinate : 462  929 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 45  
+     Coordinate : 546  43 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 46  
+     Coordinate : 967  325 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 47  
+     Coordinate : 683  634 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 48  
+     Coordinate : 322  642 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 49  
+     Coordinate : 395  612 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 50  
+     Coordinate : 864  910 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 51  
+     Coordinate : 985  126 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 52  
+     Coordinate : 988  685 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 53  
+     Coordinate : 978  50 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 54  
+     Coordinate : 476  365 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 55  
+     Coordinate : 681  11 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 56  
+     Coordinate : 58  249 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 57  
+     Coordinate : 247  731 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 58  
+     Coordinate : 650  774 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 59  
+     Coordinate : 980  833 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 60  
+     Coordinate : 868  778 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 61  
+     Coordinate : 624  115 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 62  
+     Coordinate : 645  892 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 63  
+     Coordinate : 408  939 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 64  
+     Coordinate : 285  202 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 65  
+     Coordinate : 18  334 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 66  
+     Coordinate : 784  901 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 67  
+     Coordinate : 684  289 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 68  
+     Coordinate : 141  702 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 69  
+     Coordinate : 853  458 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 70  
+     Coordinate : 528  363 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 71  
+     Coordinate : 75  755 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 72  
+     Coordinate : 675  288 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 73  
+     Coordinate : 53  157 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 74  
+     Coordinate : 758  222 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 75  
+     Coordinate : 294  200 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 76  
+     Coordinate : 171  305 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 77  
+     Coordinate : 951  601 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 78  
+     Coordinate : 377  865 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 79  
+     Coordinate : 369  215 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 80  
+     Coordinate : 30  177 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 81  
+     Coordinate : 849  337 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 82  
+     Coordinate : 699  99 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 83  
+     Coordinate : 531  517 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 84  
+     Coordinate : 567  479 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 85  
+     Coordinate : 966  597 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 86  
+     Coordinate : 885  341 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 87  
+     Coordinate : 785  615 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 88  
+     Coordinate : 476  753 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 89  
+     Coordinate : 236  730 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 90  
+     Coordinate : 519  608 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 91  
+     Coordinate : 142  999 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 92  
+     Coordinate : 449  246 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 93  
+     Coordinate : 638  941 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 94  
+     Coordinate : 738  47 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 95  
+     Coordinate : 947  300 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 96  
+     Coordinate : 639  996 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 97  
+     Coordinate : 866  785 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12
+Sink : 98  
+     Coordinate : 571  356 
+     Capacitive Load : 5.0e-13
+     Downstream_Delay : 0.0e-12

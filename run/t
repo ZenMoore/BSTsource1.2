@@ -1,0 +1,71 @@
+*******************************************************************************
+* Version BSTsource1.1 ,  05-11-2002                                          *
+* Copyright (C) 1994-2002  by Andrew B. Kahng, C.-W. Albert Tsao              *
+* usage: bst -i inputFileName -B number                                       *
+*******************************************************************************
+
+Unknown keyword  # 
+Unknown keyword  # 
+Unknown keyword  # 
+Unknown keyword  # 
+Unknown keyword  # 
+Unknown keyword  # 
+Unknown keyword  NumPins 
+Unknown keyword  PerUnitResistance 
+Unknown keyword  PerUnitCapacitance 
+
+--------------------------------------------------------
+bst r1 (nterms=267, Npoints=534) N_Obstalces = 0
+Elmore delay model  Skew_B = 0.00 
+BME_MODE
+Current Time: Mon May 27 22:44:05 2002
+ 
+--------------------------------------------------------
+
+
+
+================== level 0 ===============================
+total capacitance of  level[ 0] = 0.000 Frad
+===========================================================
+
+total wirelength = 0 
+warning: cost = 1320666 != wirelength 
+
+r1:WL=   1320666 B=0ps t:1416.1 (1316.1)(40.794)Time:00:00:00(    0 sec.)(-2)
+
+
+Total wirelength: 1320665.973074
+Total Delay: 1416.074233 ps
+R_buffer =  100.000000 Oh
+C_buffer =  50.000000 FF
+Delay_buffer =  0.100000 ns
+R[H], R[V]: 0.003000 Oh  0.003000 Oh
+C[H], C[V]: 0.020000 FF  0.020000 FF 
+Routing pattern: 1.0 (1:HV, 0:VH) 
+
+k=-1, Cost_fx=1.0,N_Neighbor=1 
+Treewire = 1320567.9 (detour:0.0%) ***n_detour_nodes = 253 (94.756554%) ***
+skew(533)=0.000000=(1316.074233-1316.074233) 
+BME_MODE
+
+Max_n_regions (irredundant) = 0 (0)
+0 pairs of overlapped regions (0%)
+Node[267].n_mr = 2
+Node[267].npts = 2
+n_region_type:(V=0,H=0,M=534,F=0,T=0)
+open file (for write) r1.xg_B0
+
+open file (for write) r1_area.xg_B0
+
+User: [00:00:00 ]
+Sys:  [00:00:00 ]
+
+
+
+
+Current Time: Mon May 27 22:44:05 2002
+ 
+=================================
+Time:00:00:00(    0 sec.)
+Total wirelength: 1320665.973074
+=================================

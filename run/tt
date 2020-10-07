@@ -1,0 +1,165 @@
+*******************************************************************************
+* Version BSTsource1.1 ,  05-11-2002                                          *
+* Copyright (C) 1994-2002  by Andrew B. Kahng, C.-W. Albert Tsao              *
+* usage: bst -i inputFileName -B number                                       *
+*******************************************************************************
+
+Unknown keyword  # 
+Unknown keyword  # 
+Unknown keyword  # 
+Unknown keyword  # 
+Unknown keyword  # 
+Unknown keyword  # 
+Unknown keyword  NumPins 
+Unknown keyword  PerUnitResistance 
+Unknown keyword  PerUnitCapacitance 
+
+--------------------------------------------------------
+bst r1 (nterms=267, Npoints=534) N_Obstalces = 0
+Elmore delay model  Skew_B = 0.00 k_Parameter: -1 CostFx=1.0
+BME_MODE
+Current Time: Mon May 27 23:03:46 2002
+ 
+--------------------------------------------------------
+
+============================================================
+=  run ExG_DME on cluster (L=1:i=0/1) cid=0 
+=  n_trees = 267 
+============================================================
+comparisons/nodes = 4450/267 = 16.7 
+nodes_with_neighbor/nodes = 267/267 = 1.00
+neighbors/nodes = 267/267 = 1.00
+max_neighbors = 1 
+Time:00:00:00(    0 sec.)
+
+
+#_trees=267, #_nodes=268, #_mering_pairs=105
+comparisons/nodes = 3079/162 = 19.0 
+nodes_with_neighbor/nodes = 162/162 = 1.00
+neighbors/nodes = 162/162 = 1.00
+max_neighbors = 1 
+Time:00:00:01(    1 sec.)
+
+
+#_trees=162, #_nodes=373, #_mering_pairs=63
+comparisons/nodes = 1890/99 = 19.1 
+nodes_with_neighbor/nodes = 99/99 = 1.00
+neighbors/nodes = 99/99 = 1.00
+max_neighbors = 1 
+Time:00:00:02(    2 sec.)
+
+
+#_trees=99, #_nodes=436, #_mering_pairs=39
+comparisons/nodes = 1021/60 = 17.0 
+nodes_with_neighbor/nodes = 60/60 = 1.00
+neighbors/nodes = 60/60 = 1.00
+max_neighbors = 1 
+Time:00:00:03(    3 sec.)
+
+
+#_trees=60, #_nodes=475, #_mering_pairs=24
+comparisons/nodes = 438/36 = 12.2 
+nodes_with_neighbor/nodes = 36/36 = 1.00
+neighbors/nodes = 36/36 = 1.00
+max_neighbors = 1 
+Time:00:00:03(    3 sec.)
+
+
+#_trees=36, #_nodes=499, #_mering_pairs=12
+comparisons/nodes = 381/24 = 15.9 
+nodes_with_neighbor/nodes = 24/24 = 1.00
+neighbors/nodes = 24/24 = 1.00
+max_neighbors = 1 
+Time:00:00:04(    4 sec.)
+
+
+#_trees=24, #_nodes=511, #_mering_pairs=9
+comparisons/nodes = 146/15 = 9.7 
+nodes_with_neighbor/nodes = 15/15 = 1.00
+neighbors/nodes = 15/15 = 1.00
+max_neighbors = 1 
+Time:00:00:04(    4 sec.)
+
+
+#_trees=15, #_nodes=520, #_mering_pairs=6
+comparisons/nodes = 37/9 = 4.1 
+nodes_with_neighbor/nodes = 9/9 = 1.00
+neighbors/nodes = 9/9 = 1.00
+max_neighbors = 1 
+Time:00:00:04(    4 sec.)
+
+
+#_trees=9, #_nodes=526, #_mering_pairs=3
+comparisons/nodes = 30/6 = 5.0 
+nodes_with_neighbor/nodes = 6/6 = 1.00
+neighbors/nodes = 6/6 = 1.00
+max_neighbors = 1 
+Time:00:00:04(    4 sec.)
+
+
+#_trees=6, #_nodes=529, #_mering_pairs=2
+comparisons/nodes = 12/4 = 3.0 
+nodes_with_neighbor/nodes = 4/4 = 1.00
+neighbors/nodes = 4/4 = 1.00
+max_neighbors = 1 
+Time:00:00:04(    4 sec.)
+
+
+#_trees=4, #_nodes=531, #_mering_pairs=2
+comparisons/nodes = 2/2 = 1.0 
+nodes_with_neighbor/nodes = 2/2 = 1.00
+neighbors/nodes = 2/2 = 1.00
+max_neighbors = 1 
+Time:00:00:04(    4 sec.)
+
+
+#_trees=2, #_nodes=533, #_mering_pairs=1
+
+
+================== level 0 ===============================
+WL[ 0]=+1320666.0 skew=0 (1316.1-1316.1)C40.794 (n267) R_b100  Stub0(0)  t1316
+total capacitance of  level[ 0] = 40.844 Frad
+===========================================================
+
+total wirelength = 1320666 
+
+r1:WL=   1320666 B=0ps t:5495.5 (1316.1)(40.794)Time:00:00:04(    4 sec.)(-2)
+
+
+Total wirelength: 1320665.973074
+Total Delay: 5495.506179 ps
+R_buffer =  100.000000 Oh
+C_buffer =  50.000000 FF
+Delay_buffer =  0.100000 ns
+R[H], R[V]: 0.003000 Oh  0.003000 Oh
+C[H], C[V]: 0.020000 FF  0.020000 FF 
+Routing pattern: 1.0 (1:HV, 0:VH) 
+
+k=-1, Cost_fx=1.0,N_Neighbor=1 
+Treewire = 1320567.9 (detour:0.0%) ***n_detour_nodes = 253 (94.756554%) ***
+skew(533)=0.000000=(1316.074233-1316.074233) 
+BME_MODE
+
+Max_n_regions (irredundant) = 0 (0)
+0 pairs of overlapped regions (0%)
+Node[267].n_mr = 2
+Node[267].npts = 2
+n_region_type:(V=0,H=0,M=534,F=0,T=0)
+open file (for write) r1.top_B0
+
+open file (for write) r1.xg_B0
+
+open file (for write) r1_area.xg_B0
+
+User: [00:00:04 ]
+Sys:  [00:00:00 ]
+
+
+
+
+Current Time: Mon May 27 23:03:54 2002
+ 
+=================================
+Time:00:00:04(    4 sec.)
+Total wirelength: 1320665.973074
+=================================
